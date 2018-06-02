@@ -20,9 +20,11 @@ cd /var/mobile && sh ./restore.sh
 
 ## Explanation
 To add files on backup list, you need to edit backuplist.lst.
+
 Moreover, you have to add all directories that path to the file.
 
 Once you added the path, you don't need to rewrite. 
+
 
 If you want to backup preference files of "Asktocall", add the line like bottom.
 ```
@@ -35,6 +37,7 @@ If you want to backup preference files of "Asktocall", add the line like bottom.
 ```
 
 "+" means that script will backup file (or folder), and "-" means excluding the directory from backup.
+
 
 To backup entire folder you want, add the line like bottom.
 ```
