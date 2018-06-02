@@ -34,7 +34,7 @@ If you want to backup preference files of "Asktocall", add the line like bottom.
 + /private/var/mobile/Library/Preferences/me.deVbug.AskToCall.plist
 ```
 
-"+" means that script will backup file (or folder), and "-" means excluding the directory.
+"+" means that script will backup file (or folder), and "-" means excluding the directory from backup.
 
 To backup entire folder you want, add the line like bottom.
 ```
