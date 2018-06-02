@@ -140,7 +140,7 @@
 #--------------------------------#
 + /private/var/mobile/Media/
 
-#写真
+#Photos
 - /private/var/mobile/Media/DCIM/
 - /private/var/mobile/Media/DCIM/**
 
