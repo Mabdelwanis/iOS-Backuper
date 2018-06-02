@@ -1,0 +1,155 @@
+#--------------------------------#
+# Access                         #
+#--------------------------------#
+
++ /private/etc/
++ /private/etc/apt/
++ /private/etc/apt/sources.list.d/
++ /private/
++ /private/var/
++ /private/var/lib/
++ /private/var/lib/cydia/
++ /Library/
++ /Library/PreferenceBundles/
++ /Library/PreferenceLoader/
++ /Library/MobileSubstrate/
++ /Library/MobileSubstrate/DynamicLibraries/
++ /Library/"Application Support"/
+#--------------------------------#
+# Cydia Sorce List               #
+#--------------------------------#
+#Metadata.plist
++ /private/var/lib/cydia/metadata.*
+
+#Cydia.plist
++ /private/etc/apt/sources.list.d/**
+
+#--------------------------------#
+# /private/var/wireless/Library/ #
+#--------------------------------#
++ /private/var/wireless/
++ /private/var/wireless/Library/
+
+#Call History
+- /private/var/wireless/Library/CallHistory/
+- /private/var/wireless/Library/CallHistory/**
+
+#--------------------------------#
+# /private/var/mobile/Library/   #
+#--------------------------------#
++ /private/var/mobile/
++ /private/var/mobile/Library/
+
+#Address Book
+- /private/var/mobile/Library/AddressBook/
+- /private/var/mobile/Library/AddressBook/**
+
+#Calendar
+- /private/var/mobile/Library/Calendar/
+- /private/var/mobile/Library/Calendar/**
+
+#GameCentre
+- /private/var/mobile/Library/ConfigurationProfiles
+- /private/var/mobile/Library/ConfigurationProfiles/**
+
+#Keyboard and User Dictionary
+- /private/var/mobile/Library/Keyboard
+- /private/var/mobile/Library/Keyboard/UserDictionary*
+- /private/var/mobile/Library/Keyboard/*.dictionary
+
+#Maps
+- /private/var/mobile/Library/Maps/
+- /private/var/mobile/Library/Maps/**
+
+#SMS
+- /private/var/mobile/Library/SMS/
+- /private/var/mobile/Library/SMS/**
+
+#Notes
+- /private/var/mobile/Library/Notes/
+- /private/var/mobile/Library/Notes/**
+
+#Safari (Bookmark)
+- /private/var/mobile/Library/Safari/
+- /private/var/mobile/Library/Safari/**
+
+#Wallpapers, Icon Arrangement
++ /private/var/mobile/Library/SpringBoard
++ /private/var/mobile/Library/SpringBoard/**
+
+#iOS Preferences
++ /private/var/mobile/Library/Preferences/
+- /private/var/mobile/Library/Preferences/.GlobalPreferences.plist
+- /private/var/mobile/Library/Preferences/com.apple*
+
+#-----------JailBreaks-----------#
+
+#Activator
++ /private/var/mobile/Library/Caches/
++ /private/var/mobile/Library/Caches/libactivator.plist
+
+#Downloads Folder
++ /private/var/mobile/Library/Downloads/
++ /private/var/mobile/Library/Downloads/**
+
+#All Tweaks
++ /Library/MobileSubstrate/**
++ /Library/PreferenceBundles/**
++ /Library/PreferenceLoader/**
++ /Library/"Application Support"/**
+
+#LPP
++ /Library/LockPlus/
++ /Library/LockPlus/**
++ /private/var/mobile/Documents/
++ /private/var/mobile/Documents/lockplusfonts/
++ /private/var/mobile/Documents/lockplusfonts/**
++ /private/var/mobile/Library/LockPlus/
++ /private/var/mobile/Library/LockPlus/**
+
+
+#FrontPage
++ /Library/Frontpage/
++ /Library/FrontPage/**
++ /private/var/mobile/Library/FrontPage/
++ /private/var/mobile/Library/FrontPage/**
+
+#Iconoclasm
++ /Library/Iconoclasm/
++ /Library/Iconoclasm/**
+
+#Cylinder
++ /Library/Cylinder/
++ /Library/Cylinder/**
+
+#BreakThrough
++ /Library/BreakThrough/
++ /Library/BreakThrough/**
+
+#Themes
++ /Library/Themes/
++ /Library/Themes/**
+
+#---------JB Preferences---------#
+#All Settings
++ /private/var/mobile/Library/Preferences/**
++ /private/var/mobile/Documents/**
+
+#--------------------------------#
+# /private/var/mobile/Media/     #
+#--------------------------------#
++ /private/var/mobile/Media/
+
+#写真
+- /private/var/mobile/Media/DCIM/
+- /private/var/mobile/Media/DCIM/**
+
+#--------------------------------#
+# /private/var/root/             #
+#--------------------------------#
++ /private/var/root/
+
+#--------------------------------#
+# All Access                     #
+#--------------------------------#
+- *
