@@ -1,5 +1,5 @@
 # iOS-Backuper
-Backup Your Phone Manually
+Backup Your Phone Without Including Junk Files
 
 ## Dependency
 rsync (Get it from Cydia)
