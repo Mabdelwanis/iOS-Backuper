@@ -2,7 +2,7 @@
 Backup Your Phone Manually
 
 ## Dependency
-Rsync (Get it from Cydia)
+rsync (Get it from Cydia)
 
 ## Usage
 1. Put files on /var/mobile
